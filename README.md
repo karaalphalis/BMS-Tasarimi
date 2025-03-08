@@ -1,4 +1,5 @@
-"# 🔋 Batarya Yönetim Sistemi (BMS) Projesi
+# 🔋 Batarya Yönetim Sistemi (BMS) Projesi
+
 Bu proje, lityum-iyon ve benzeri batarya sistemlerinin güvenliğini, verimliliğini ve ömrünü optimize etmek için geliştirilen bir Batarya Yönetim Sistemi yazılım ve donanım çözümlerini içerir. BMS, batarya gruplarının gerçek zamanlı izlenmesi, dengelenmesi ve korunması amacıyla tasarlanmıştır.
 
 📌 Temel Özellikler
